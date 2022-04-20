@@ -34,6 +34,7 @@ func isProductSupported(product string) bool {
 		"envconsul",
 		"levant",
 		"nomad",
+		"nomad-autoscaler",
 		"nomad-pack",
 		"terraform",
 		"packer",
